@@ -1,5 +1,14 @@
 {
-  "tokens": [
-    "54446da83cebde46f767e562068eed2f305317254a40b6ba4d11f86af319804b"
-  ]
+  "tokens": {
+    "04BF18D9608B845C83E62169": {
+      "hashId": "04BF18D9608B845C83E62169",
+      "botId": "8835742883",
+      "botUsername": "dbScriptJustinOffcBot",
+      "tokenEncrypted": "iASmfK1+qCOffY4U.ohoDhXcTHcyZH4iLNOBc2g==.iR3kISYEADnxihPwC9cZxq4e//WuPRU/+YCJyWIpIozYhfgt1Hp4Vn67D9VcKA==",
+      "createdBy": "8223891242",
+      "createdAt": "2026-11-11T00:34:29.301Z",
+      "status": "active"
+    }
+  },
+  "users": {}
 }
